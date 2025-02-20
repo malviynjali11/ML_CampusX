@@ -1,0 +1,59 @@
+1- Machine Learning is all about learning from the data. Deep Learning(DL) is the subset of Machine Learning and Machine Learning(ML) is the subset of Artificial Intelligence(AI), which implies AI is the universal set.
+
+2- Types of ML :-
+
+a- Supervised Learning consists of Regression & Classification
+b- Unsupervised Learning consists of Clustering, Dimensionality Reduction, Anamoly Detection, Association
+c- Semisupervised Learning
+d- Reinforcement Learning
+e- Batch Learning
+f- Online Learning V/s Offline Learning
+g- Instance based Learning V/s Model-based learning
+
+3- Challenges in ML :-
+
+a- Data Collection
+b- Insufficient Data/Labelled Data
+c- Non representative Data
+d- Poor Quality Data
+e- Irrelevant Features (Garbage In , Garbage Out)
+f- Overfitting
+g- Underfitting
+h- Software Integration
+i- Offline Learning/Deployment
+j- Cost Involved
+
+4- Applications of ML :-
+
+a- Retail - Amazon/Big Bazaar
+b- Banking and Finance
+c- Transport - OLA
+d- Manufacturing - Tesla
+e- Consumer Internet - Twitter(X)
+
+5- Machine Learning Development Life Cycle (MLDLC) :-
+
+a- Frame the problem
+b- Gathering the Data
+c- Data Preprocessing
+d- Exploratory Data Analysis(EDA)
+e- Feature Engineering & Selection
+f- Model training , Evaluation & Selection
+g- Model Deployment
+h- Testing
+i- Optimize
+
+6- Data Science Job Roles :-
+
+a- Data Engineer requires DSA, Python, C++/Java, Advanced DBMS, Big Data Tools, Cloud Platforms, Distributed systems, Data Pipelines - their job is to scrape data from the given sources,  move/store data in the optimal servers/warehouses, build data Pipelines/APIs for easy access to the data and handle databses/data warehouses
+b- Data Analyst requires Statistical Programming, Programming Language(R/SAS/Python), Data Mining, Cleaning & Munging, Data Visualization, Creative and Anlytical Thinking, Strong Communication skills, Data story telling, SQL and Adv.Microsoft Excel.
+c- Data/Decision Scientists- A data Scientist is someone who is better at stats than any Software engineer and better at Software Engineering than any statistician.
+d- ML Engineer requires Maths, Programming Languages, Distributed systems, Data model & Evaluation, ML models, Software engineers & system design
+
+7- Tensors
+
+a- Tensors are generally containers for the numbers.
+b- 0D Tensors/Scalar - 0 dimensions , e.g. 2,3,4,5,...
+c- 1D Tensor/Vector - e.g. [1,2,3], [6,7]
+d- 2D Tensors/Matrices 
+e- ND Tensors
