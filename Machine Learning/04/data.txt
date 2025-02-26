@@ -1,0 +1,22 @@
+Understanding Your data
+
+1- How big is the data ?
+df.shape
+
+2- How does data look like ?
+df.head()
+
+3- What is the datatype of the cols ?
+df.info()
+
+4- Are there any missing values ?
+df.isnull().sum()
+
+5- How does the data look mathematically ? 
+df.describe().T 
+
+6- Are there duplicate values ?
+df.duplicated().sum()
+
+7- How is the correlation b/w cols ?
+df.corr()
